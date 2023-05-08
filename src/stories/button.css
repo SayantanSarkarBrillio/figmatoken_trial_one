@@ -24,12 +24,13 @@
   padding: 10px 16px;
 }
 .storybook-button--medium {
-  font-size: var(--set-1-title-font-size);
+  font-size: 14;
   padding: 11px 20px;
-  margin-left: 0;
-  margin-top: 10px;
 }
 .storybook-button--large {
   font-size: 16px;
   padding: 12px 24px;
+  width: 100%;
+  margin-left: 0px;
+  margin-top: 10px;
 }
