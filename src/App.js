@@ -78,7 +78,7 @@ function App() {
       </div>
     </div>
       </div>
-      <div style={{position: 'fixed', top: '400px', padding: '15px', left: '10%', width: '80%', border: '1px solid yellow'}}>
+      <div style={{position: 'fixed', top: '400px', padding: '15px', left: '10%', width: '80%'}}>
         <div style={{width: '20.5%', float: 'left'}}>
           <Button primary={false} size='large' icon={<FaHorseHead/>} label='Device Manager' />
           <Button primary={false} size='large' icon={<FaChartLine/>} label='Home Analytics' />
